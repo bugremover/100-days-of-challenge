@@ -1,6 +1,12 @@
 # 100 Days of Challenge
 
-Welcome to my 100-day coding challenge! Here, I document my journey, the new concepts I learn, and the problems I solve each day.
+Welcome to my 100-day coding challenge! I've embarked on a journey where I commit to tackling a minimum of 8 easy, 4 medium, or 2 hard-level questions daily. I've taken up this challenge with the aim of enhancing my coding skills and pushing the boundaries of my problem-solving abilities.
+
+This challenge isn't just about completing tasks; it's about cultivating discipline, persistence, and a growth mindset. Each day, I immerse myself in the world of algorithms and data structures, seeking to unravel new concepts, refine my approaches, and conquer coding obstacles.
+
+Join me on this exhilarating adventure as I navigate through the intricacies of software development, embracing challenges as opportunities for growth, and turning aspirations into achievements, one code snippet at a time.
+
+Let's code, learn, and evolve together!
 
 ## Table of Contents
 
