@@ -10,7 +10,7 @@ Let's code, learn, and evolve together!
 
 ## Table of Contents
 
-1. [Day 1](#day-1)
+1. [Day 1](https://github.com/bugremover/100-days-of-challenge/tree/main/Day1)
 
 
 
