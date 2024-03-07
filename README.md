@@ -9,16 +9,16 @@ Join me on this exhilarating adventure as I navigate through the intricacies of 
 Let's code, learn, and evolve together!
 
 ## Table of Contents
-
+### Solutions:
 1. [Day 1](https://github.com/bugremover/100-days-of-challenge/tree/main/Day1)
-
+2. [Day 2](https://github.com/bugremover/100-days-of-challenge/tree/main/Day2)
 
 
 
 ## Day 1
 
 <details>
-  <summary>Click to view Solutions</summary>
+  <summary>Click to view Questions</summary>
 
 ### Questions Solved:
 
@@ -28,5 +28,16 @@ Let's code, learn, and evolve together!
 
 </details>
 
+## Day 2
 
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/regular-expression-matching/) - Regular Expression Matching (Hard)
+2. [Question Name 2](https://leetcode.com/problems/longest-palindromic-substring/description/) - Longest Palindromic Substring (Medium)
+3. [Question Name 3](https://leetcode.com/problems/median-of-two-sorted-arrays/) - Median of Two sorted Arrays (Hard)
+
+</details>
 
