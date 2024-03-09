@@ -13,7 +13,7 @@ Let's code, learn, and evolve together!
 1. [Day 1](https://github.com/bugremover/100-days-of-challenge/tree/main/Day1)
 2. [Day 2](https://github.com/bugremover/100-days-of-challenge/tree/main/Day2)
 3. [Day 3](https://github.com/bugremover/100-days-of-challenge/tree/main/Day3)
-
+4. [Day 4](https://github.com/bugremover/100-days-of-challenge/tree/main/Day4)
 
 ## Day 1
 
@@ -51,5 +51,18 @@ Let's code, learn, and evolve together!
 1. [Question Name 1](https://leetcode.com/problems/greatest-common-divisor-traversal/description/?envType=daily-question&envId=2024-03-08) - Greatest Commom Divisor Traversal (Hard)
 2. [Question Name 2](https://leetcode.com/problems/find-all-people-with-secret/description/?envType=daily-question&envId=2024-03-08) - Find all people with secert (Hard)
 
+
+</details>
+## Day 4
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/3sum/description/) -3Sum (Medium)
+2. [Question Name 2](https://leetcode.com/problems/4sum/) - 4Sum (Hard)
+3. [Question Name 2](https://leetcode.com/problems/integer-to-roman/) - Integer to Roman (Medium)
+4. [Question Name 2](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Letter combinations of a phone number (Medium)
 
 </details>
