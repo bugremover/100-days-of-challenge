@@ -14,6 +14,8 @@ Let's code, learn, and evolve together!
 2. [Day 2](https://github.com/bugremover/100-days-of-challenge/tree/main/Day2)
 3. [Day 3](https://github.com/bugremover/100-days-of-challenge/tree/main/Day3)
 4. [Day 4](https://github.com/bugremover/100-days-of-challenge/tree/main/Day4)
+5. [Day 5]()
+
 
 ## Day 1
 
@@ -65,5 +67,18 @@ Let's code, learn, and evolve together!
 2. [Question Name 2](https://leetcode.com/problems/4sum/) - 4Sum (Hard)
 3. [Question Name 2](https://leetcode.com/problems/integer-to-roman/) - Integer to Roman (Medium)
 4. [Question Name 2](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Letter combinations of a phone number (Medium)
+
+</details>
+
+## Day 5
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/longest-valid-parentheses/) - Longest Valid Parentheses (Hard)
+2. [Question Name 2](https://leetcode.com/problems/trapping-rain-water/) - Trapping Rain Water (Hard)
+
 
 </details>
