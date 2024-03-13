@@ -16,6 +16,7 @@ Let's code, learn, and evolve together!
 4. [Day 4](https://github.com/bugremover/100-days-of-challenge/tree/main/Day4)
 5. [Day 5](https://github.com/bugremover/100-days-of-challenge/tree/main/Day5)
 6. [Day 6](https://github.com/bugremover/100-days-of-challenge/tree/main/Day6)
+7. [Day 7](https://github.com/bugremover/100-days-of-challenge/tree/main/Day7)
 
 
 ## Day 1
@@ -94,5 +95,18 @@ Let's code, learn, and evolve together!
 1. [Question Name 1](https://leetcode.com/problems/bus-routes/description/?envType=daily-question&envId=2024-03-11) - Bus Route (Hard)
 2. [Question Name 2](https://leetcode.com/problems/constrained-subsequence-sum/?envType=daily-question&envId=2024-03-11) - Constrained Subsequence Sum (Hard)
 3. [Question Name 3](https://leetcode.com/problems/custom-sort-string/description/?envType=daily-question&envId=2024-03-11) - Custom Sort String (Medium)
+
+</details>
+
+## Day 7
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/?envType=daily-question&envId=2024-03-12) - Remove zero sum consecutive nodes from linked list (Medium)
+2. [Question Name 2](https://leetcode.com/problems/first-missing-positive/description/) - First Missing Positive (Hard)
+3. [Question Name 3](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) - Substring With Concatenation of all words (Hard)
 
 </details>
