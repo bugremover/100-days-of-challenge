@@ -20,6 +20,7 @@ Let's code, learn, and evolve together!
 8. [Day 8](https://github.com/bugremover/100-days-of-challenge/tree/main/Day8)
 
 
+
 ## Day 1
 
 <details>
@@ -124,3 +125,5 @@ Let's code, learn, and evolve together!
 3. [Question Name 3](https://leetcode.com/problems/number-of-islands/description/) - No.of Islands (Medium)
 
 </details>
+
+
