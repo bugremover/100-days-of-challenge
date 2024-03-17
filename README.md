@@ -19,6 +19,7 @@ Let's code, learn, and evolve together!
 7. [Day 7](https://github.com/bugremover/100-days-of-challenge/tree/main/Day7)
 8. [Day 8](https://github.com/bugremover/100-days-of-challenge/tree/main/Day8)
 9. [Day 9](https://github.com/bugremover/100-days-of-challenge/tree/main/Day9)
+10.[Day 10](https://github.com/bugremover/100-days-of-challenge/tree/main/Day10)
 
 
 ## Day 1
@@ -136,6 +137,19 @@ Let's code, learn, and evolve together!
 1. [Question Name 1](https://leetcode.com/problems/contiguous-array/?envType=daily-question&envId=2024-03-16) -Contiguous Array (Medium)
 2. [Question Name 2](https://leetcode.com/problems/product-of-array-except-self/?envType=daily-question&envId=2024-03-15) - Product of Array Except itself (Medium)
 3. [Question Name 3](https://leetcode.com/problems/binary-subarrays-with-sum/?envType=daily-question&envId=2024-03-14) - Binary Subarrays With Sum (Medium)
+
+</details>
+
+## Day 10
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/insert-interval/?envType=daily-question&envId=2024-03-17) -Insert Interval (Medium)
+2. [Question Name 2](https://leetcode.com/problems/next-permutation/) - Next Permutation (Medium)
+3. [Question Name 3](https://leetcode.com/problems/sudoku-solver/description/) - Sudoku Solver (Hard)
 
 </details>
 
