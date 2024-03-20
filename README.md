@@ -20,6 +20,7 @@ Let's code, learn, and evolve together!
 8. [Day 8](https://github.com/bugremover/100-days-of-challenge/tree/main/Day8)
 9. [Day 9](https://github.com/bugremover/100-days-of-challenge/tree/main/Day9)
 10. [Day 10](https://github.com/bugremover/100-days-of-challenge/tree/main/Day10)
+11. [Day 11](https://github.com/bugremover/100-days-of-challenge/tree/main/Day11)
 
 
 
@@ -151,6 +152,19 @@ Let's code, learn, and evolve together!
 1. [Question Name 1](https://leetcode.com/problems/insert-interval/?envType=daily-question&envId=2024-03-17) -Insert Interval (Medium)
 2. [Question Name 2](https://leetcode.com/problems/next-permutation/) - Next Permutation (Medium)
 3. [Question Name 3](https://leetcode.com/problems/sudoku-solver/description/) - Sudoku Solver (Hard)
+
+</details>
+
+## Day 11
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=daily-question&envId=2024-03-18) -Minimum Number of Arrows to brust Ballons (Medium)
+2. [Question Name 2](https://www.geeksforgeeks.org/problems/word-ladder/0) - Word Ladder - I (Hard)
+3. [Question Name 3](https://www.geeksforgeeks.org/problems/word-ladder-ii/0) - Word Ladder -II (Hard)
 
 </details>
 
