@@ -21,7 +21,8 @@ Let's code, learn, and evolve together!
 9. [Day 9](https://github.com/bugremover/100-days-of-challenge/tree/main/Day9)
 10. [Day 10](https://github.com/bugremover/100-days-of-challenge/tree/main/Day10)
 11. [Day 11](https://github.com/bugremover/100-days-of-challenge/tree/main/Day11)
-12. [Day 12](https://github.com/bugremover/100-days-of-challenge/tree/main/Day11)
+12. [Day 12](https://github.com/bugremover/100-days-of-challenge/tree/main/Day12)
+13. [Day 12](https://github.com/bugremover/100-days-of-challenge/tree/main/Day13)
 
 
 
@@ -180,5 +181,18 @@ Let's code, learn, and evolve together!
 1. [Question Name 1](https://leetcode.com/problems/merge-in-between-linked-lists/?envType=daily-question&envId=2024-03-20) - Merge in between LinkedLists (Medium)
 2. [Question Name 2](https://leetcode.com/problems/multiply-strings/) - Mutliply Strings (Medium)
 3. [Question Name 3](https://leetcode.com/problems/task-scheduler/?envType=daily-question&envId=2024-03-19) - Task Scheduler (Medium)
+
+</details>
+
+## Day 13
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/reorder-list/?envType=daily-question&envId=2024-03-23) - Reorder List (Medium)
+2. [Question Name 2](https://leetcode.com/problems/reverse-nodes-in-k-group/) - Reverse Nodes in K-Group (Hard)
+3. [Question Name 3](https://leetcode.com/problems/palindrome-linked-list/description/?envType=daily-question&envId=2024-03-22) - Palindrome LinnkedList (Medium)
 
 </details>
