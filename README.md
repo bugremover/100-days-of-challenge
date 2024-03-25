@@ -23,6 +23,8 @@ Let's code, learn, and evolve together!
 11. [Day 11](https://github.com/bugremover/100-days-of-challenge/tree/main/Day11)
 12. [Day 12](https://github.com/bugremover/100-days-of-challenge/tree/main/Day12)
 13. [Day 12](https://github.com/bugremover/100-days-of-challenge/tree/main/Day13)
+14. [Day 12](https://github.com/bugremover/100-days-of-challenge/tree/main/Day14)
+    
 
 
 
@@ -196,3 +198,17 @@ Let's code, learn, and evolve together!
 3. [Question Name 3](https://leetcode.com/problems/palindrome-linked-list/description/?envType=daily-question&envId=2024-03-22) - Palindrome LinnkedList (Medium)
 
 </details>
+
+## Day 14
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - First and last position of elements in sortedarray (Medium)
+2. [Question Name 2](https://leetcode.com/problems/find-the-duplicate-number/?envType=daily-question&envId=2024-03-24) - Find the duplicate number (Medium)
+3. [Question Name 3](https://leetcode.com/problems/group-anagrams/) - Group Anagrams (Medium)
+
+</details>
+
