@@ -22,8 +22,9 @@ Let's code, learn, and evolve together!
 10. [Day 10](https://github.com/bugremover/100-days-of-challenge/tree/main/Day10)
 11. [Day 11](https://github.com/bugremover/100-days-of-challenge/tree/main/Day11)
 12. [Day 12](https://github.com/bugremover/100-days-of-challenge/tree/main/Day12)
-13. [Day 12](https://github.com/bugremover/100-days-of-challenge/tree/main/Day13)
-14. [Day 12](https://github.com/bugremover/100-days-of-challenge/tree/main/Day14)
+13. [Day 13](https://github.com/bugremover/100-days-of-challenge/tree/main/Day13)
+14. [Day 14](https://github.com/bugremover/100-days-of-challenge/tree/main/Day14)
+15. [Day 15](https://github.com/bugremover/100-days-of-challenge/tree/main/Day15)
     
 
 
