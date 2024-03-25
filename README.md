@@ -212,3 +212,16 @@ Let's code, learn, and evolve together!
 
 </details>
 
+## Day 15
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/) - Find Triangluar Sum of Array (Medium)
+2. [Question Name 2](https://leetcode.com/problems/sum-of-square-numbers/description/) - Sum of Sqaure Numbers (Medium)
+3. [Question Name 3](https://leetcode.com/problems/find-all-duplicates-in-an-array/?envType=daily-question&envId=2024-03-25) - Find all duplicates in an Array (Medium)
+
+</details>
+
