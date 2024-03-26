@@ -226,3 +226,16 @@ Let's code, learn, and evolve together!
 
 </details>
 
+
+## Day 16
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/?envType=daily-question&envId=2024-03-26) - Count Nodes Equal to Average of Subtree (Medium)
+2. [Question Name 2](https://leetcode.com/problems/count-and-say/) - Count and Say (Medium)
+3. [Question Name 3](https://leetcode.com/problems/powx-n/description/) - Pow(x,y) (Medium)
+
+</details>
