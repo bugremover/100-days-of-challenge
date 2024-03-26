@@ -25,6 +25,7 @@ Let's code, learn, and evolve together!
 13. [Day 13](https://github.com/bugremover/100-days-of-challenge/tree/main/Day13)
 14. [Day 14](https://github.com/bugremover/100-days-of-challenge/tree/main/Day14)
 15. [Day 15](https://github.com/bugremover/100-days-of-challenge/tree/main/Day15)
+16. [Day 16](https://github.com/bugremover/100-days-of-challenge/tree/main/Day16)
     
 
 
