@@ -28,7 +28,7 @@ Let's code, learn, and evolve together!
 16. [Day 16](https://github.com/bugremover/100-days-of-challenge/tree/main/Day16)
 17. [Day 17](https://github.com/bugremover/100-days-of-challenge/tree/main/Day17)
 18. [Day 18](https://github.com/bugremover/100-days-of-challenge/tree/main/Day18)
-    
+19. [Day 19](https://github.com/bugremover/100-days-of-challenge/tree/main/Day19)
 
 
 
@@ -266,6 +266,19 @@ Let's code, learn, and evolve together!
 1. [Question Name 1](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/?envType=daily-question&envId=2024-03-28) - Length of Longest Subarray with at most k  (Medium)
 2. [Question Name 2](https://leetcode.com/problems/combination-sum/) - Combination sum (Medium)
 3. [Question Name 3](https://leetcode.com/problems/combination-sum-ii/submissions/1216609446/) - Combination Sum - II(Medium)
+
+</details>
+
+## Day 19
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2024-03-29) - Count Subarrays where max element appears at least k times  (Medium)
+2. [Question Name 2](https://leetcode.com/problems/permutations/) - Permutations (Medium)
+3. [Question Name 3](https://leetcode.com/problems/search-insert-position/) - Search insert position (Medium)
 
 </details>
 
