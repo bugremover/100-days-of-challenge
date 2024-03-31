@@ -282,5 +282,18 @@ Let's code, learn, and evolve together!
 
 </details>
 
+## Day 20
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31) - Count Subarrays with fixed bounds (Hard)
+2. [Question Name 2](https://leetcode.com/problems/valid-sudoku/) - Valid Sudoku (Medium)
+
+
+</details>
+
 
 
