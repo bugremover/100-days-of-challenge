@@ -29,7 +29,8 @@ Let's code, learn, and evolve together!
 17. [Day 17](https://github.com/bugremover/100-days-of-challenge/tree/main/Day17)
 18. [Day 18](https://github.com/bugremover/100-days-of-challenge/tree/main/Day18)
 19. [Day 19](https://github.com/bugremover/100-days-of-challenge/tree/main/Day19)
-20. [Day 20](https://github.com/bugremover/100-days-of-challenge/tree/main/Day30)
+20. [Day 20](https://github.com/bugremover/100-days-of-challenge/tree/main/Day20)
+21. [Day 21](https://github.com/bugremover/100-days-of-challenge/tree/main/Day21)
 
 
 
@@ -296,5 +297,16 @@ Let's code, learn, and evolve together!
 
 </details>
 
+## Day 21
 
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/isomorphic-strings/description/) - Isomorphic Strings (Easy)
+2. [Question Name 2](https://leetcode.com/problems/permutations-ii/description/) - Permutations II (Medium)
+3. [Question Name 3](https://leetcode.com/problems/word-search/description/) - Word Search (Medium)
+
+</details>
 
