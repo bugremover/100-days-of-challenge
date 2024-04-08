@@ -31,6 +31,8 @@ Let's code, learn, and evolve together!
 19. [Day 19](https://github.com/bugremover/100-days-of-challenge/tree/main/Day19)
 20. [Day 20](https://github.com/bugremover/100-days-of-challenge/tree/main/Day20)
 21. [Day 21](https://github.com/bugremover/100-days-of-challenge/tree/main/Day21)
+22. [Day 22](https://github.com/bugremover/100-days-of-challenge/tree/main/Day22)
+23. [Day 23](https://github.com/bugremover/100-days-of-challenge/tree/main/Day23)
 
 
 
@@ -325,7 +327,7 @@ Let's code, learn, and evolve together!
 
 </details>
 
-## Day 21
+## Day 23
 
 <details>
   <summary>Click to view Questions</summary>
