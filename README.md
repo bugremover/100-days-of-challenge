@@ -310,3 +310,30 @@ Let's code, learn, and evolve together!
 
 </details>
 
+
+</details>
+
+## Day 22
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+    Sql leetcode problems
+
+</details>
+
+</details>
+
+## Day 21
+
+<details>
+  <summary>Click to view Questions</summary>
+
+### Questions Solved:
+
+1. [Question Name 1](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) -No.of Students unable to eat lunch (Easy)
+2. [Question Name 2](https://leetcode.com/problems/valid-parenthesis-string/description/) - Valid Parenthesis String(Medium)
+3. [Question Name 3](https://leetcode.com/problems/validate-binary-search-tree/description/) - Validate Binary Search Tree (Medium)
+
+</details>
